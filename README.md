@@ -1,7 +1,7 @@
 # Background
 
-This working paper compares different delineations
-https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Airgood-Obrycki_Rieger_Defining_Suburbs.pdf, which highlights the "census-convenient" definition in Kneebone & Nadeau (2015) as the best option for a quick nation-wide dataset
+This working paper compares different suburban/urban/rural delineations
+https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Airgood-Obrycki_Rieger_Defining_Suburbs.pdf, highlighting the "census-convenient" definition from Kneebone & Nadeau (2015) as the best option for a quick nation-wide dataset
 https://www.brookings.edu/wp-content/uploads/2016/06/1103_poverty_kneebone_nadeau_berube.pdf
 
 However, this repository contains a simplified implementation of the Bureau of Justice definition centered more around weighted housing unit density (more accurate than population density) https://bjs.ojp.gov/content/pub/pdf/cusrancvs.pdf
